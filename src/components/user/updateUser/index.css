@@ -1,0 +1,202 @@
+.custom-icon-select svg{
+  fill: white ;
+}
+
+@media (max-width:991px) {
+  .update-profile-inputs-mb {
+    margin-bottom: 1rem !important;
+  }
+}
+
+.update-profile-card {
+  background-color: #3E4B5C;
+  color: white;
+  padding: 1.5rem 3rem;
+  margin: 1rem;
+  border-radius: 10px;
+}
+
+.profile-fields h4 {
+  font-size: 1.2rem;
+}
+
+.update-profile-inputs {
+  background-color: #323E4A;
+  border: solid 1px #5F6B79 !important;
+  border-radius: 5px;
+  /* Change this to your desired background color */
+}
+
+.update-profile-inputs .MuiInputBase-input {
+  height: 10px;
+  /* Adjust the height as per your requirement */
+  border-radius: 5px;
+  color: white;
+  font-size: 14px;
+  
+}
+
+
+.update-profile-inputs .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #5F6B79;
+  /* Set the border color to transparent */
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.update-profile-inputs .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+  border-color: #5F6B79;
+  /* Set the border color to transparent on hover */
+}
+
+.update-profile-inputs .MuiInputLabel-root {
+  color: rgba(255, 255, 255, 0.7) !important;
+  font-size: 14px;
+  line-height: 1.1em !important;
+  /* Set the label color */
+}
+.update-profile-inputs input::placeholder {
+  color: white;
+  font-size: 14px ;
+  /* Adjust the color to your desired value */
+}
+.custom-select.MuiSelect-root > .MuiMenu-root > .MuiPaper-root .MuiMenuItem-root {
+  background-color: red !important; /* Replace with your desired background color */
+  color: #fff; /* Change text color as needed */
+}
+.input-icons {
+  color: white;
+  font-size: 14px !important;
+}
+
+.invite-card {
+  background-color: #323E4A;
+  color: white;
+  padding: 1rem;
+}
+
+.invite-head {
+  display: flex;
+}
+
+.invite-head .icon {
+  padding: 1rem 1rem 0rem 0rem;
+}
+
+.invite-head .content {
+  padding: 1rem 0rem 0rem 0rem;
+}
+
+.invite-head .content h4 {
+  margin: 0px;
+  font-size: 20px;
+
+}
+
+.invite-head .content p {
+  margin-top: 5px;
+}
+
+.email-btn {
+  padding: 15px;
+  background-color: #556273;
+  color: white;
+  border: none;
+  margin-top: 1rem;
+  font-size: 14px;
+}
+
+.Email-input {
+  background-color: #323E4A;
+  border: solid 1px #5F6B79;
+}
+
+.Email-input .MuiInputBase-input {
+  height: 10px;
+  /* Adjust the height as per your requirement */
+  border: solid 2px #5F6B79;
+  border-radius: 3px;
+  font-size: 14px;
+}
+
+.Email-input input::placeholder {
+  color: white;
+  /* Adjust the color to your desired value */
+}
+
+.Email-input .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #5F6B79;
+  /* Set the border color to transparent */
+}
+
+.Email-input .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+  border-color: white;
+  /* Set the border color to transparent on hover */
+}
+
+.Email-card {
+  background-color: #3E4B5C;
+  padding: 1rem;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
+
+.email-add-btn {
+  padding: 10px;
+  background-color: #556273;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-left: 20px;
+  font-size: 14px;
+  border-radius: 3px;
+  width: 100px;
+}
+
+.close-icon:hover {
+  background-color: rgba(255, 255, 255, 0.08);
+  border-radius: 50%;
+}
+
+.close-icon {
+  font-size: 16px !important;
+  cursor: pointer;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+.send-invite-btn {
+  padding: 12px;
+  background-color: #556273;
+  color: white;
+  border: none;
+  margin-top: 0.5rem;
+  cursor: pointer;
+  font-size: 14px;
+  border-radius: 3px;
+  width: 120px;
+}
+
+.update-btn {
+  padding: 12px;
+  background-color: #556273;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.eye-icon {
+  font-size: 16px !important;
+  color: white;
+}
+
+.change-pass-btn {
+  padding: 12px;
+  background-color: #556273;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  margin: 25px 0px;
+}

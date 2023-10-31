@@ -1,0 +1,8 @@
+body{
+    background-color: #3E4B5C;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.MuiMenu-paper{
+    background-color: #3E4B5C !important;
+}

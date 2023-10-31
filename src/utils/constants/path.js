@@ -1,0 +1,16 @@
+export const PATH = {
+  dashboard: "/dashboard/integration1",
+  integration1: "/dashboard/integration1",
+  integration2: "/dashboard/integration2",
+  integration3: "/dashboard/integration3",
+  updateProfile: "/update-profile",
+  inviteUser: "/invite-users",
+  adminUsers: "/admin/users",
+  adminPayment: "/admin/payment",
+  userLogin: "/",
+  // userLogin: "/user-login",
+  adminLogin: "/admin-login",
+  userRegister: "/user-register",
+  forget: "/forgot-password",
+  adminForget: "admin/forgot-password",
+};
